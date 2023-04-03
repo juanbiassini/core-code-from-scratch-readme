@@ -58,11 +58,39 @@ Ingredientes:
 <ol>
   <li> Defino la fórmula F=(C*9/5)+32 siendo C la temperatura en celcius.
   <li> El resultado final F es la temperatura en Fahrenheit. </li>
+</ol>
+
+# <h2> 3. Some geometry 📐 </h2>
+<h3> Description </h3>
+<b> Design an algorithm to calculate the volume of a pyramid, a cube and a sphere. </b>
+<h3> Solution </h3>
+<ol>
+  <li> Definir el cuerpo a calcular el volumen </li>
+  <li> Si el cuerpo es una piramide entonces ultilizar Fórmula A. </li>
+  <li> Sino (Si es un cubo) utilizar Fórmula B. </li>
+  <li> Sino (Si es una esfera) utilizar Fórmula c. </li>
 </ol><br>
 
-<
+<b> A. Fórmula para calcular el volumen de una piramide: </b>
+<ol>
+  <li> Defino la fórmula V=1/b*l*a*h siendo b el largo de la base, a el ancho de la base, y h la altura de la piramide. </li>
+  <li> El resultado final V es el volumen de la piramide. </li>
+</ol><br>
 
-  
+<b> B. Fórmula para calcular el volumen de un cubo: </b>
+<ol>
+  <li> Defino la fórmula V=l^3 siendo l la longitud de una arista de la base del cubo. </li>
+  <li> El resultado final V es el volumen del cubo
+</ol><br>
+
+<b> C Fórmula para calcular el volumen de una esfera: </b>
+<ol>
+  <li> Defino la fórmula V=4/3*π*r^3 siendo r el radio de la esfera.
+  <li> El resultado final V es el volumen de la esfera.
+</ol>
+
+#
+
     
 
 
