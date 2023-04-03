@@ -94,6 +94,7 @@ Design an algorithm to check if a number is even or odd. If it is even, write th
 Write pseudocode for an algorithm that calculates the age of a person based on date of birth.
 <h3> Solution: </h3>
 <ol>
+  <li> PROGRAM How old are you;
   <li> BEGIN <br> OUTPUT("What's your date of birth?"); </li>
   <li> INPUT(date of birth);</li>
   <li> SAVE date of birth -> date_of_birth; </li>
