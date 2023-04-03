@@ -56,32 +56,29 @@ Define an algorithm that is able to convert temperatures from Celsius to Fahrenh
 </ol>
 
 # <h2> 3. Some geometry 📐 </h2>
-<h3> Description </h3>
-<b> Design an algorithm to calculate the volume of a pyramid, a cube and a sphere. </b>
-<h3> Solution </h3>
+<b> Description </b>
+Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
+<h3> Solution: </h3>
 <ol>
-  <li> Definir el cuerpo a calcular el volumen </li>
-  <li> Si el cuerpo es una piramide entonces ultilizar Fórmula A. </li>
-  <li> Sino (Si es un cubo) utilizar Fórmula B. </li>
-  <li> Sino (Si es una esfera) utilizar Fórmula c. </li>
+  <li> Knowing the body for which to calculate the volume </li>
+  <li> If the body is a pyramid, then use Formula A. </li>
+  <li> Else (if it is a cube) use Formula B. </li>
+  <li> Else (if it is a sphere) use Formula C. </li>
 </ol><br>
-
-<b> A. Fórmula para calcular el volumen de una piramide: </b>
+<b> A. Formula to calculate the volume of a pyramid: </b>
 <ol>
-  <li> Defino la fórmula V=1/b*l*a*h siendo b el largo de la base, a el ancho de la base, y h la altura de la piramide. </li>
-  <li> El resultado final V es el volumen de la piramide. </li>
+  <li> I calculate V=1/3*b*a*h where b is the length of the base, a is the width of the base, and h is the height of the pyramid. </li>
+  <li> The final result V is the volume of the pyramid. </li>
 </ol><br>
-
-<b> B. Fórmula para calcular el volumen de un cubo: </b>
+<b> B. Formula to calculate the volume of a cube: </b>
 <ol>
-  <li> Defino la fórmula V=l^3 siendo l la longitud de una arista de la base del cubo. </li>
-  <li> El resultado final V es el volumen del cubo
+  <li> I calculate V=l^3 where l is the length of an edge of the base of the cube. </li>
+  <li> The final result V is the volume of the cube. </li>
 </ol><br>
-
-<b> C Fórmula para calcular el volumen de una esfera: </b>
+<b> C. Formula to calculate the volume of a sphere: </b>
 <ol>
-  <li> Defino la fórmula V=4/3*π*r^3 siendo r el radio de la esfera.
-  <li> El resultado final V es el volumen de la esfera.
+  <li> I calculate V=4/3*π*r^3 where r is the radius of the sphere and π is the number pi.
+  <li> The final result V is the volume of the sphere. </li>
 </ol>
 
 # <h1> Week Challenges <br> (Thursday) </h1>
