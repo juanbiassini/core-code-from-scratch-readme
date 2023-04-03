@@ -83,18 +83,15 @@ Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 
 # <h1> Week Challenges <br> (Thursday) </h1>
 <h2> 4. Numbers 📈 </h2>
-<h3> Description </h3>
-<b> Design an algorithm to check if a number is even or odd. If it is even, write that it is even, otherwise write that it is odd. Represent the algorithm in a flowchart. </b>
-
-<h3> Solution </h3>
-
+<b> Description </b><br>
+Design an algorithm to check if a number is even or odd. If it is even, write that it is even, otherwise write that it is odd. Represent the algorithm in a flowchart.
+<h3> Solution: </h3>
 ![Week 1 - Exercice 4](https://user-images.githubusercontent.com/87130341/229401391-6ed03a96-8c40-4f84-ba6b-b3df3f1973b2.png)
 
 # <h2> 5. How old are you 👴 </h2>
-<h3> Description </h3>
-<b> Write pseudocode for an algorithm that calculates the age of a person based on date of birth </b>
-<h3> Solution </h3>
-
+<b> Description </b><br>
+Write pseudocode for an algorithm that calculates the age of a person based on date of birth.
+<h3> Solution: </h3>
 <ol>
   <li> BEGIN <br> OUTPUT("What's your date of birth?"); </li>
   <li> INPUT(date of birth);</li>
