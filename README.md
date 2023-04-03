@@ -95,7 +95,8 @@ Write pseudocode for an algorithm that calculates the age of a person based on d
 <h3> Solution: </h3>
 <ol>
   <li> PROGRAM How old are you;
-  <li> BEGIN <br> OUTPUT("What's your date of birth?"); </li>
+  <li> BEGIN </li>
+  <li> OUTPUT("What's your date of birth?"); </li>
   <li> INPUT(date of birth);</li>
   <li> SAVE date of birth -> date_of_birth; </li>
   <li> DEFINE current year -> rigth_now; </li>
@@ -119,8 +120,8 @@ Which chests have treasures? <br></br>
 <ol>
   <li> Since all messages are lies, let's change them to truth: <br>
     <ul>
-      <li> Left chest: The middle chest has no treasure </li>
-      <li> Middle chest: No all chests have treasures on them </li>
+      <li> Left chest: The middle chest has no treasure. </li>
+      <li> Middle chest: No all chests have treasures on them. </li>
       <li> Right chest: It's not possible for Only one of the chests to have a treasure. </li>
     </ul>
   <li> With the above analysis we have two options:
