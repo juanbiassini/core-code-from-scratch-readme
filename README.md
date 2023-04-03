@@ -114,7 +114,14 @@ Ingredientes:
   <li> END. </li>
 </ol>
 
+# <h2> 6. Find the treasure 👑 </h2>
+<h3> Description </h3>
+<b> We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies. </b>
 
+<b> Left chest: The middle chest has a treasure <br>
+Middle chest: All these chests have treasures in them <br>
+Right chest: Only one of these chests has treasures. <br>
+Which chests have treasures? 
 
 
 
