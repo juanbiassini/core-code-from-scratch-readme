@@ -56,7 +56,7 @@ Define an algorithm that is able to convert temperatures from Celsius to Fahrenh
 </ol>
 
 # <h2> 3. Some geometry 📐 </h2>
-<b> Description </b>
+<b> Description </b><br>
 Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 <h3> Solution: </h3>
 <ol>
