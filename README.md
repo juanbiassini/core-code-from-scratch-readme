@@ -116,12 +116,14 @@ Ingredientes:
 
 # <h2> 6. Find the treasure 👑 </h2>
 <h3> Description </h3>
-<b> We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies. </b>
-
+<b> We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies. </b><br></br>
 <b> Left chest: The middle chest has a treasure <br>
 Middle chest: All these chests have treasures in them <br>
-Right chest: Only one of these chests has treasures. <br>
-Which chests have treasures? 
+Right chest: Only one of these chests has treasures. <br></br>
+Which chests have treasures? <br></br>
+<img width="354" alt="202836372-19159ef8-14d5-4ecf-b08c-819b05e79f81" src="https://user-images.githubusercontent.com/87130341/229407959-f4e870f9-ee3f-4cc2-b490-e0812bcb240b.png">
+<h3> Solution </h3>
+
 
 
 
