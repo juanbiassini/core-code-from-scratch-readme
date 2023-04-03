@@ -8,7 +8,7 @@
 
 <h3> Solution </h3>
 <b> Sabor: Pizza de mozzarella y tomate <br></br>
-1. Ingredientes:
+Ingredientes:
 <ul>
   <li> Masa de pizza </li>
   <li> Salsa de pizza </li>
@@ -25,6 +25,23 @@
   <li> Queso mozzarella rayado </li>
   <li> Oregano fresco (opcional) </li>
   <li> Harina </li>
+</ul><br>
+<b> Preparación: </b>
+<ol>
+  <li> Conseguir los ingredientes </li>
+  <li> Precalentar el horno </li>
+  <li> Preparar la salsa </li>
+  <li> Estirar la masa </li>
+  <li> Agregar los ingredientes </li>
+  <li> Cocinar la pizza </li>
+  <li> Cortar y servir (opcional: agregar oregano) </li>
+</ol><br>
+
+<h2> 
+
+
+
+
   
   
   
