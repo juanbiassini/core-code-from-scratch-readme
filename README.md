@@ -132,7 +132,7 @@ Which chests have treasures? <br></br>
   <ul> Ninguno de los cofres tiene un tesoro </ul>
   <ul> Los cofres de la izquierda y derecha tienen un tesoro </ul>
   </li>
-  <li> Sabemos que al menos un cofre tiene un tesoro, entonces la única opción es que los cofres de la izquierda y derecha tienen un tesoro. <li>
+  <li> Sabemos que al menos un cofre tiene un tesoro, entonces la única opción es que los cofres de la izquierda y derecha tienen un tesoro. </li>
   <li> Respuesta: Los cofres A y C tienen tesoros. </li>
 </ol>
 
