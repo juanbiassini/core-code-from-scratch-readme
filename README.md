@@ -104,10 +104,12 @@ Ingredientes:
 <h3> Solution </h3>
 
 <ol>
-  <li> Averiguamos la fecha de nacimiento de la persona y la definimos como date_of_birth. </li>
-  <li> Averiguamos la fecha del año corriente en el calendario y la definimos como date </li>
-  <li> Definimos Age=date-date_of_birth . </li>
-  <li> El resultado final Age es la edad de la persona. </li>
+  <li> BEGIN <br> OUTPUT("What's your date of birth?"); </li>
+  <li> INPUT(date of birth);</li>
+  <li> SAVE the date of birth -> date_of_birth; </li>
+  <li> DEFINE the current year in a variable -> rigth_now; </li>
+  <li> DEFINE the current year in a variable -> rigth_now; </li>
+  
 </ol>
 
 
