@@ -1,43 +1,41 @@
 # core-code-from-scratch-readme
-
 <h1> Week 1 - Algorithms </h1>
-
 <h1> Week Challenges <br> (Wednesday) </h1>
 <h2> 1. Let's make pizza 🍕 </h2>
-<b> Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation. </b>
-
-<h3> Solution </h3>
-<b> Sabor: Pizza de mozzarella y tomate <br></br>
-Ingredientes:
+<b> Description </b><br>
+Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
+<h3> Solution: </h3>
+<b> Flavor: Pepperoni pizza. <br></br>
+Ingredients:
 <ul>
-  <li> Masa de pizza </li>
-  <li> Salsa de pizza </li>
+  <li> Pizza dough. </li>
+  <li> Pizza sauce: </li>
   <ul>
-    <li> Salsa de tomate </li>
-    <li> Sal kosher </li>
-    <li> Pimienta negra molida </li>
-    <li> Ajo granulado </li>
-    <li> Cebolla granulada </li>
-    <li> Hojuelas de pimiento rojo </li>
-    <li> Aceite de oliva </li>
+    <li> Tomato sauce. </li>
+    <li> Kosher salt. </li>
+    <li> Ground black pepper. </li>
+    <li> Granulated garlic. </li>
+    <li> Granulated onion. </li>
+    <li> Red bell pepper flakes. </li>
+    <li> Olive oil. </li>
   </ul>
-  <li> Pepperoni </li>
-  <li> Queso mozzarella rayado </li>
-  <li> Oregano fresco (opcional) </li>
-  <li> Harina </li>
+  <li> Pepperoni. </li>
+  <li> Shredded mozzarella cheese. </li>
+  <li> Fresh oregano (optional). </li>
+  <li> Flour. </li>
 </ul><br>
-<b> Preparación: </b>
+<b> Preparation: </b>
 <ol>
-  <li> Conseguir los ingredientes </li>
-  <li> Precalentar el horno </li>
-  <li> Preparar la salsa </li>
-  <li> Estirar la masa </li>
-  <li> Agregar los ingredientes </li>
-  <li> Cocinar la pizza </li>
-  <li> Cortar y servir (opcional: agregar oregano) </li>
-</ol><br>
+  <li> Procurement of ingredients. </li>
+  <li> Preheat the oven. </li>
+  <li> Prepare the sauce. </li>
+  <li> Roll out the dough. </li>
+  <li> Add the ingredients. </li>
+  <li> Cooking pizza. </li>
+  <li> Cut and serve (optional: add oregano). </li>
+</ol>
 
-<h2> 2. Hot N Cold 🤒 🧊 🔥 </h2>
+# <h2> 2. Hot N Cold 🤒 🧊 🔥 </h2>
 <b> Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa. </b>
 
 <h3> Solution </h3>
