@@ -106,10 +106,12 @@ Ingredientes:
 <ol>
   <li> BEGIN <br> OUTPUT("What's your date of birth?"); </li>
   <li> INPUT(date of birth);</li>
-  <li> SAVE the date of birth -> date_of_birth; </li>
-  <li> DEFINE the current year in a variable -> rigth_now; </li>
-  <li> DEFINE the current year in a variable -> rigth_now; </li>
-  
+  <li> SAVE date of birth -> date_of_birth; </li>
+  <li> DEFINE current year -> rigth_now; </li>
+  <li> DEFINE age -> age; </li>
+  <li> RESULT age=rigth_now-date_of_birth; </li>
+  <li> OUTPUT("is" + age + "years old"); </li>
+  <li> END. </li>
 </ol>
 
 
