@@ -89,7 +89,16 @@ Ingredientes:
   <li> El resultado final V es el volumen de la esfera.
 </ol>
 
-#
+# <h1> Week Challenges <br> (Thursday) </h1>
+<h2> Numbers 📈 </h2>
+<h3> Description </h3>
+<b> Design an algorithm to check if a number is even or odd. If it is even, write that it is even, otherwise write that it is odd. Represent the algorithm in a flowchart. </b>
+
+<h3> Solution </h3>
+
+![Week 1 - Exercice 4](https://user-images.githubusercontent.com/87130341/229401391-6ed03a96-8c40-4f84-ba6b-b3df3f1973b2.png)
+
+
 
     
 
