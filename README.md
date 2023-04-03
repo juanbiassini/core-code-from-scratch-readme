@@ -36,26 +36,23 @@ Ingredients:
 </ol>
 
 # <h2> 2. Hot N Cold 🤒 🧊 🔥 </h2>
-<b> Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa. </b>
-
-<h3> Solution </h3>
-
+<b> Description </b><br>
+Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa.
+<h3> Solution: </h3>
 <ol>
-  <li> Definir el valor de temperatura a convertir </li>
-  <li> Si el valor de temperatura está en Fahrenheit entonces ultilizar Fórmula A. </li>
-  <li> Sino (Si está en Celcius) utilizar Fórmula B. </li>
+  <li> Obtain the temperature value to be converted. </li>
+  <li> If the temperature value is in degrees Fahrenheit, then use Formula A. </li>
+  <li> Else (if in degrees Celcius) use Formula B. </li>
 </ol><br>
-
-<b> A. Fórmula para convertir Fahrenheit a Celsius: </b>
+<b> A. Formula to convert from degrees Fahrenheit to degrees Celsius: </b>
 <ol>
-  <li> Defino la fórmula C=(F-32)*5/9 siendo F la temperatura en fahrenheit.
-  <li> El resultado final C es la temperatura en Celcius. </li>
+  <li> I calculate C=(F-32)*5/9 where F is the temperature in degrees Fahrenheit. </li>
+  <li> The final result C is the temperature in degrees Celcius. </li>
 </ol><br>
-
-<b> B. Fórmula para convertir de Celsius a Fahrenheit: </b>
+<b> B. Formula to convert from degrees Celsius to degrees Fahrenheit: </b>
 <ol>
-  <li> Defino la fórmula F=(C*9/5)+32 siendo C la temperatura en celcius.
-  <li> El resultado final F es la temperatura en Fahrenheit. </li>
+  <li> I calculate F=(C*9/5)+32 where C is the temperature in degrees Celcius. </li>
+  <li> The final result F is the temperature in degrees Fahrenheit. </li>
 </ol>
 
 # <h2> 3. Some geometry 📐 </h2>
