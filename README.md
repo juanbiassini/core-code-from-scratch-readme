@@ -118,12 +118,14 @@ Which chests have treasures? <br></br>
 <h3> Solution: </h3>
 <ol>
   <li> Since all messages are lies, let's change them to truth: <br>
-  Left chest: The middle chest has no treasure <br>
-  Middle chest: No all chests have treasures on them <br>
-  Right chest: It's not possible for Only one of the chests to have a treasure. <br></br> </li>
+    <ul>
+      <li> Left chest: The middle chest has no treasure </li>
+      <li> Middle chest: No all chests have treasures on them </li>
+      <li> Right chest: It's not possible for Only one of the chests to have a treasure. </li>
+    </ul>
   <li> With the above analysis we have two options:
-  <ul> 1. None of the chests has a treasure. </ul>
-  <ul> 2. The chests on the left and right have treasure. </ul>
+  <ul> A. None of the chests has a treasure. </ul>
+  <ul> B. The chests on the left and right have treasure. </ul>
   </li>
   <li> We know that at least one chest has a treasure, so the only congruent option is that the left and right chests have a treasure. </li>
   <li> Answer: Chests A and C have treasures. </li>
