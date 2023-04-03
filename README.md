@@ -86,6 +86,7 @@ Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 <b> Description </b><br>
 Design an algorithm to check if a number is even or odd. If it is even, write that it is even, otherwise write that it is odd. Represent the algorithm in a flowchart.
 <h3> Solution: </h3>
+
 ![Week 1 - Exercice 4](https://user-images.githubusercontent.com/87130341/229401391-6ed03a96-8c40-4f84-ba6b-b3df3f1973b2.png)
 
 # <h2> 5. How old are you 👴 </h2>
@@ -104,46 +105,25 @@ Write pseudocode for an algorithm that calculates the age of a person based on d
 </ol>
 
 # <h2> 6. Find the treasure 👑 </h2>
-<h3> Description </h3>
-<b> We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies. </b><br></br>
+<b> Description </b><br>
+We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies. <br></br>
 Left chest: The middle chest has a treasure <br>
 Middle chest: All these chests have treasures in them <br>
 Right chest: Only one of these chests has treasures. <br></br>
 Which chests have treasures? <br></br>
+
 <img width="354" alt="202836372-19159ef8-14d5-4ecf-b08c-819b05e79f81" src="https://user-images.githubusercontent.com/87130341/229407959-f4e870f9-ee3f-4cc2-b490-e0812bcb240b.png">
-<h3> Solution </h3>
+
+<h3> Solution: </h3>
 <ol>
-  <li> Como todos los mensajes son mentira, cambiemos a verdad: <br>
+  <li> Since all messages are lies, let's change them to truth: <br>
   Left chest: The middle chest has no treasure <br>
   Middle chest: No all chests have treasures on them <br>
   Right chest: It's not possible for Only one of the chests to have a treasure. <br></br> </li>
-  <li> Tenemos dos opciones:
-  <ul> Ninguno de los cofres tiene un tesoro </ul>
-  <ul> Los cofres de la izquierda y derecha tienen un tesoro </ul>
+  <li> With the above analysis we have two options:
+  <ul> 1. None of the chests has a treasure. </ul>
+  <ul> 2. The chests on the left and right have treasure. </ul>
   </li>
-  <li> Sabemos que al menos un cofre tiene un tesoro, entonces la única opción es que los cofres de la izquierda y derecha tienen un tesoro. </li>
-  <li> Respuesta: Los cofres A y C tienen tesoros. </li>
+  <li> We know that at least one chest has a treasure, so the only congruent option is that the left and right chests have a treasure. </li>
+  <li> Answer: Chests A and C have treasures. </li>
 </ol>
-
-  
-  
-  
-    
-    
-    
-
-
-
-
-    
-
-
-
-
-  
-  
-  
-    
-    
-    
-
