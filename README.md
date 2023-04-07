@@ -1,5 +1,5 @@
 # core-code-from-scratch-readme
-<h1> Week 1-Algorithms </h1>
+<h1> Week 1 - Algorithms </h1>
 <h1> Week Challenges <br> (Wednesday) </h1>
 <h2> 1. Let's make pizza 🍕 </h2>
 <b> Description </b><br>
